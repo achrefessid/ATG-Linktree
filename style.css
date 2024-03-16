@@ -12,6 +12,10 @@
 
 body {
     font-family: var(--space-grotesk);
+    background-image: url("https://img.freepik.com/premium-photo/financial-graph-with-up-trend-line-candlestick-chart-stock-market-white-color-background_147586-418.jpg?w=1060");
+    /*
+    https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166929.jpg?t=st=1710608706~exp=1710612306~hmac=50758265a14fefd1404ed737a0cd5de6249f82da5cf074b6577a101434a2cf30&w=900
+    */
 }
 
 a {
