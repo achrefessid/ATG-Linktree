@@ -44,6 +44,11 @@ header {
     border: 2px solid var(--black);
 }
 
+.emirates {
+    width: 30px;
+    height: 30px;
+}
+
 .short-bio {
     text-align: center;
     color: var(--black);
